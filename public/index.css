@@ -1,0 +1,46 @@
+*{
+  font-family:  cursive;
+  box-sizing: border-box;
+}
+.bd-placeholder-img {
+  font-size: 1.125rem;
+  text-anchor: middle;
+  -webkit-user-select: none;
+  -moz-user-select: none;
+  user-select: none;
+}
+
+.nav-bar{
+  background-color: rgb(48, 48, 48);
+  color: white;
+  padding: 20px 120px;
+  display: flex;
+  justify-content:space-between;
+}
+.nav-feature{
+  display: flex;
+  align-items: center;
+  justify-content:space-between;
+}
+
+.search{
+  height: 50%;
+  width: 60%;
+}
+
+.game-img{
+  opacity: 0.2;
+}
+.title{
+  position: absolute;
+  top:30%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+  text-shadow: 2px 2px white;
+  font-size: medium;
+
+}
+.footer{
+  text-align: center;
+  opacity: 0.8;
+}
