@@ -4,4 +4,8 @@
 
 -> It includes search and sort feature.
 
--> made by using ReactJS
+-> Made by using ReactJS
+
+-> Deployed on netlify :-
+    
+   Project Link : https://rentomojo-games-tc6.netlify.app
